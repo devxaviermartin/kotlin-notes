@@ -1,0 +1,2 @@
+# kotlin-notes
+trying out python in my spare time
